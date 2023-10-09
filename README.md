@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, PHP, Python, Mysql, JQuery, Sqlite, MongoDB],
-  tools: [Angular, NodeJs, Docker, Boostrap, Wordpress, React, Git],
+  tools: [Angular, NodeJs, Docker, Boostrap, Tailwindcss, Wordpress, React, Git],
   architecture: ["design system pattern"],
   design: ["Adobe XD, Figma"]
 }
