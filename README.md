@@ -47,5 +47,7 @@ const thai = {
 <br>
 <a href="https://www.kiboparenting.com/"> kibo parenting </a>
 <br>
+<a href="https://inbasik.com/"> inbasik </a>
+<br>
 
 
